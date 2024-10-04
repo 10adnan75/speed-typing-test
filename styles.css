@@ -12,7 +12,7 @@ a{
   color: #52575d;
 }
 .yellow{
-  color: #ffd369;
+  color: #899499;
 }
 .correct{
   color: #29bb89;
@@ -89,7 +89,7 @@ input:focus, textarea:focus, select:focus, a:focus{
 }
 
 a:focus,a:hover{
-  color: #ffd369;
+  color: #899499;
   text-decoration: none;
 }
 
